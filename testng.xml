@@ -1,0 +1,12 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Rivisionrestassured.restassuredrivision.Get"/>
+      <class name="Rivisionrestassured.restassuredrivision.Post"/>
+      <class name="Rivisionrestassured.restassuredrivision.Patch"/>
+      <class name="Rivisionrestassured.restassuredrivision.Put"/>
+      <class name="Rivisionrestassured.restassuredrivision.Delete"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
